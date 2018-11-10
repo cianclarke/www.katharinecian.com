@@ -1,0 +1,15 @@
+{
+  "name": "abbeyinvestigations.net",
+  "engines" : {
+    "node" : ">=0.10.3 <=0.12"
+  },
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.10.7"
+  }
+}
