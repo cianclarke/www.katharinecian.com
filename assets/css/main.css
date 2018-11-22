@@ -564,7 +564,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 ========================================================================== */
 .intro {
   background: url(../img/hero-area.jpg) no-repeat;
-  background-size: cover;
+  background-position: center;
+  background-color: #cacaca;
   color: #fff;
   padding: 150px 0;
   overflow: hidden;
@@ -1296,4 +1297,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #copyright p a:hover {
   color: #1eafe9;
+}
+strong {
+  font-family: sans-serif;
 }
